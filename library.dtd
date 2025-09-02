@@ -1,0 +1,9 @@
+<!ELEMENT library (loan+)>
+<!ELEMENT loan (member, book, dueDate)>
+<!ELEMENT member (id, name)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT book (title, author)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT author (#PCDATA)>
+<!ELEMENT dueDate (#PCDATA)>

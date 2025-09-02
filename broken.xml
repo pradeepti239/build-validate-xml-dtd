@@ -1,0 +1,14 @@
+<!DOCTYPE library SYSTEM "library.dtd">
+<library>
+    <loan>
+        <member>
+            <id>M001</id>
+            <name>Alice Smith</name>
+        </member>
+        <book>
+            <title>Introduction to Algorithms</title>
+            <!-- Missing <author> -->
+        </book>
+        <dueDate>2025-09-15</dueDate>
+    </loan>
+</library>

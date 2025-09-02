@@ -1,0 +1,26 @@
+<!DOCTYPE library SYSTEM "library.dtd">
+<library>
+    <loan>
+        <member>
+            <id>M001</id>
+            <name>Alice Smith</name>
+        </member>
+        <book>
+            <title>Introduction to Algorithms</title>
+            <author>Thomas H. Cormen</author>
+        </book>
+        <dueDate>2025-09-15</dueDate>
+    </loan>
+
+    <loan>
+        <member>
+            <id>M002</id>
+            <name>Bob Johnson</name>
+        </member>
+        <book>
+            <title>Clean Code</title>
+            <author>Robert C. Martin</author>
+        </book>
+        <dueDate>2025-09-20</dueDate>
+    </loan>
+</library>
