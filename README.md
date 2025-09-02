@@ -28,3 +28,5 @@ Data Domain
 
 Primary: Library Loans  
 Adjacent: [Library Catalog], [Member Accounts]  
+
+The XML fails because Element book content does not follow the DTD, expected is book (title, author) got only book (title).
